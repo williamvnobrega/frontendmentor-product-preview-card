@@ -24,8 +24,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-
+![product-preview-card](https://github.com/williamvnobrega/frontendmentor-product-preview-card/assets/108727812/de08de74-949b-49c2-96a6-9ff78b784fff)
 
 ### Links
 
@@ -46,4 +45,4 @@ First, I created a mockup version to visualize the placement of every element wi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/williamvnobrega)
+- Frontend Mentor - [@williamvnobrega](https://www.frontendmentor.io/profile/williamvnobrega)
